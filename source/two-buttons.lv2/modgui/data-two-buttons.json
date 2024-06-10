@@ -1,0 +1,15 @@
+{
+    "author": "JS", 
+    "color": "brown", 
+    "controls": [
+        {
+            "name": "Toggle One", 
+            "symbol": "toggle1"
+        }, 
+        {
+            "name": "Toggle Two", 
+            "symbol": "toggle2"
+        } 
+    ], 
+    "label": "Two Buttons"
+}

@@ -1,0 +1,12 @@
+@prefix lv2:   <http://lv2plug.in/ns/lv2core#> .
+@prefix pset:  <http://lv2plug.in/ns/ext/presets#> .
+
+<http://example.org/two-buttons#preset001>
+    lv2:port [
+        lv2:symbol "toggle1" ;
+        pset:value 0 ;
+    ],[
+        lv2:symbol "toggle2" ;
+        pset:value 0 ;
+    ] .
+
